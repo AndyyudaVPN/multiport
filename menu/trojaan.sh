@@ -1,5 +1,5 @@
 #wget https://github.com/${GitUser}/
-GitUser="kenDevXD"
+GitUser="AndyyudaVPN"
 
 # // IZIN SCRIPT
 export MYIP=$(curl -sS ipv4.icanhazip.com)
