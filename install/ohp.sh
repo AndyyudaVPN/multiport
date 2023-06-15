@@ -1,5 +1,5 @@
 #wget https://github.com/${GitUser}/
-GitUser="kenDevXD"
+GitUser="AndyyudaVPN"
 #Direct Proxy Squid For OpenVPN TCP
 RED='\e[1;31m'
 GREEN='\e[0;32m'
