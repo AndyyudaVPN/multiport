@@ -1,6 +1,6 @@
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="kenDevXD"
+GitUser="AndyyudaVPN"
 
 # // initializing var
 export DEBIAN_FRONTEND=noninteractive
