@@ -1,6 +1,6 @@
 #!/bin/bash
 #wget https://github.com/${GitUser}/
-GitUser="kenDevXD"
+GitUser="AndyyudaVPN"
 # Color Validation
 Lred='\e[1;91m'
 Lgreen='\e[92m'
@@ -21,7 +21,7 @@ echo ''
 echo "                                                              "
 echo -e "$Lyellow                  ⚡ PREMIUM AUTOSCRIPT ⚡"$NC
 echo -e "$green.........................................................."$NC
-echo -e "$Lyellow                  Autoscript By Kenn Hiroyuki"$NC
+echo -e "$Lyellow                  Autoscript By AndyYuda"$NC
 echo -e "$Lyellow                    CONTACT TELEGRAM"$NC
 echo -e "$Lyellow                       @aixxy7"$NC
 echo -e "$green.........................................................."$NC
